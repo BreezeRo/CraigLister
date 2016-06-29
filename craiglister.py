@@ -8,7 +8,7 @@ import os
 import shutil
 from inspect import getsourcefile
 from os.path import abspath
-from gmail import Gmail
+from gmail import gmail
 from datetime import date
 from PIL import Image
 
